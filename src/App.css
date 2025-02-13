@@ -43,6 +43,10 @@ button {
 }
 
 .cute-image {
-  width: 150px;
+  width: 300px;
   margin-top: 20px;
+}
+
+.dancing-cat {
+  width: 200px;
 }
