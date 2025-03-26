@@ -65,19 +65,7 @@ function App() {
             )}
             {showSorryText && (
               <p style={{ color: "red", fontSize: "20px", fontWeight: "bold" }}>
-                I am really sorry Bunnu 🥺 I never wanted to fight with you
-                maine sach me jaan puch ke nahi kara kuch bhi I just wish mai
-                sab revert kar paata But I can't now and I just want to say
-                sorry and I just want to tell you that I really love you with
-                all my heart and tere naa hone se mujhe bhot fark padhta hai I
-                just want you and you only and I will try my best to keep you
-                with me as long as I can. Jo bhi humari ladhai hui usme meri bhi
-                galti thi and I am sorry for that and for my words just know tu
-                aaj bhi mera chhota babu hai and I want to keep you like that
-                only and I am really sorry for the times I don't treat you like
-                that I will try my best to stay calm in our fights. I just wish
-                we meet soon and fix everything. Hope this helps and you feel
-                better after reading this.
+                sorry text
               </p>
             )}
           </div>
